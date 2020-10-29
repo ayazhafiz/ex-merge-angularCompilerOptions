@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "lib": ["dom"]
+  },
+  "angularCompilerOptions": {
+    "foo": 1
+  }
+}
